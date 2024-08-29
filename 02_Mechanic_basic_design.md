@@ -82,6 +82,9 @@ ARLISSに出場することを想定していたため、寸法制限はARLISS�
 ## 部品配置
 CanSatを落下させた時、走行させた時に曲げモーメント、せん断力がどのようにかかり伝わっていくかを考える．フレーム（赤枠）はタイヤから着地衝撃や回転数の違いによるせん断力を受ける．これらの力がかかった時どのように力が伝達するのかを示し、開断面をできるだけなくし強度を保つ。
 橙矢印で想定される曲げモーメントを示す。また青矢印でボディに伝わるせん断力を示す。また着地衝撃緩和のためにベアリングマウントとタイヤはTPUで作成する。配線、モーターカップリング組付け性を考えフレームの金属部分にタップ加工し2点止めにより固定する．ねじが外れないようにねじロックというゆるみ防止剤を塗布する．
-<div style="text-align: center;">
-![CanSat構造せん断力伝達](https://github.com/CanSat-FUSiON/mission5-mechanic/blob/main/figure/BD_shear.png "CanSat構造せん断力伝達")
+<div align="center">
+<img src="https://github.com/CanSat-FUSiON/mission5-mechanic/blob/main/figure/BD_shear.png" alt="せん断力" title="構造筐体内せん断力伝達">
+</div>
+<div align="center">
+<img src="https://github.com/CanSat-FUSiON/mission5-mechanic/blob/main/figure/BD_moment.png" alt="曲げモーメント" title="構造筐体曲げモーメント">
 </div>
