@@ -83,7 +83,7 @@
   </div>
 
   ### 板厚の決定・ジェネレーティブデザインを利用した肉抜き
-  板厚は板金加工がt2以上は難しいためt2とした。この板厚で荷重条件を設定し、ジェネレーティブデザインを生成した。そこから肉抜きする箇所を決定した。
+  板厚は板金加工がt2以上は難しいため、t2とした。この板厚で荷重条件を設定し、ジェネレーティブデザインを生成した。そこから肉抜きする箇所を決定した。
   <div align="center">
   <img src="https://github.com/CanSat-FUSiON/mission5-mechanic/blob/main/figure/DD_3_2_2.png" alt="ジェネレーティブデザイン" title="ジェネレーティブデザイン">
   <br>Fig3.2.2　ジェネレーティブデザイン
@@ -104,7 +104,8 @@
   <div align="center">
   <img src="https://github.com/CanSat-FUSiON/mission5-mechanic/blob/main/figure/DD_3_3_1.png" alt="両輪着地衝撃" title="両輪着地衝撃">
   <br>Fig3.3.1　両輪着地衝撃 境界条件 
-
+  </div>
+  <div align="center">
   <img src="https://github.com/CanSat-FUSiON/mission5-mechanic/blob/main/figure/DD_3_3_2.png" alt="両輪着地衝撃" title="両輪着地衝撃">
   <br>Fig3.3.2　両輪着地衝撃
   </div>
@@ -113,7 +114,8 @@
   <div align="center">
   <img src="https://github.com/CanSat-FUSiON/mission5-mechanic/blob/main/figure/BD_moment.png" alt="片輪着地衝撃" title="片輪着地衝撃">
   <br>Fig3.3.3　片輪着地衝撃 境界条件 
-
+  </div>
+  <div align="center">
   <img src="https://github.com/CanSat-FUSiON/mission5-mechanic/blob/main/figure/BD_moment.png" alt="片輪着地衝撃" title="片輪着地衝撃">
   <br>Fig3.3.4　片輪着地衝撃
   </div>  
@@ -123,7 +125,8 @@
   <div align="center">
   <img src="https://github.com/CanSat-FUSiON/mission5-mechanic/blob/main/figure/DD_3_3_5.png" alt="軸方向着地衝撃" title="軸方向着地衝撃">
   <br>Fig3.3.5　軸方向着地衝撃 境界条件 
-
+  </div>
+  <div align="center">
   <img src="https://github.com/CanSat-FUSiON/mission5-mechanic/blob/main/figure/DD_3_3_6.png" alt="軸方向着地衝撃" title="軸方向着地衝撃">
   <br>Fig3.3.6　軸方向着地衝撃
   </div> 
