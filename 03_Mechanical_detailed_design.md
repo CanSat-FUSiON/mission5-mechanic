@@ -112,11 +112,11 @@
 
   片輪から着地し、着地衝撃が機体片方に集中した場合の解析を行う。拘束条件を片輪完全拘束とし、荷重条件は拘束していない他端に衝撃荷重がかかったとする。
   <div align="center">
-  <img src="https://github.com/CanSat-FUSiON/mission5-mechanic/blob/main/figure/BD_moment.png" alt="片輪着地衝撃" title="片輪着地衝撃">
+  <img src="https://github.com/CanSat-FUSiON/mission5-mechanic/blob/main/figure/DD_3_3_3.png" alt="片輪着地衝撃" title="片輪着地衝撃">
   <br>Fig3.3.3　片輪着地衝撃 境界条件 
   </div>
   <div align="center">
-  <img src="https://github.com/CanSat-FUSiON/mission5-mechanic/blob/main/figure/BD_moment.png" alt="片輪着地衝撃" title="片輪着地衝撃">
+  <img src="https://github.com/CanSat-FUSiON/mission5-mechanic/blob/main/figure/DD_3_3_4.png" alt="片輪着地衝撃" title="片輪着地衝撃">
   <br>Fig3.3.4　片輪着地衝撃
   </div>  
   図3に結果を示す。安全率は3.226となり強度は十分である。最大応力は123MPa であった．
