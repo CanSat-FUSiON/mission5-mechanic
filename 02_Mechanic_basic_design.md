@@ -1,6 +1,6 @@
 # 【2】Mechanic 基本設計
 CanSatの寸法や使用するアクチュエータ、バッテリ、カップリングなどの部品選定について決定する。種子島ロケットコンテストの大会要領から各条件を決定していく。また部品配置や部品形状についても方針を決定する。  
-参照：
+参照：https://github.com/CanSat-FUSiON/mission5-mechanic/blob/main/contest2025_rule.pdf
 
 ## 寸法制限
 ARLISSに出場することを想定していたため、寸法制限はARLISSに則っている。
@@ -84,7 +84,9 @@ CanSatを落下させた時、走行させた時に曲げモーメント、せ�
 橙矢印で想定される曲げモーメントを示す。また青矢印でボディに伝わるせん断力を示す。また着地衝撃緩和のためにベアリングマウントとタイヤはTPUで作成する。配線、モーターカップリング組付け性を考えフレームの金属部分にタップ加工し2点止めにより固定する．ねじが外れないようにねじロックというゆるみ防止剤を塗布する．
 <div align="center">
 <img src="https://github.com/CanSat-FUSiON/mission5-mechanic/blob/main/figure/BD_shear.png" alt="せん断力" title="構造筐体内せん断力伝達">
+<br>Fig2.1　構造筐体内せん断力伝達
 </div>
 <div align="center">
 <img src="https://github.com/CanSat-FUSiON/mission5-mechanic/blob/main/figure/BD_moment.png" alt="曲げモーメント" title="構造筐体曲げモーメント">
+<br>Fig2.2　構造筐体曲げモーメント
 </div>
